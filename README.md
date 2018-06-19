@@ -1,5 +1,5 @@
 # GFG-Profile-Scraper
-Easily find your friend's profile on GeeksForGeeks :sunglasses:
+Easily find your friend's profile on GeeksForGeeks
 
 Requires packages python3, bs4, lxml, requests.  
 
