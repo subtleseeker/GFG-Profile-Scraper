@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 def main():
 	# Change the range if you have an idea of the score 
-    urls = ["https://practice.geeksforgeeks.org/ranking/%d" %(i) for i in range(0,1000)]
+    urls = ["https://practice.geeksforgeeks.org/ranking/%d" %(i) for i in range(0,2000)]
     the_word = input("Enter the keyword or the substring of the username to search:")
 
     try:
